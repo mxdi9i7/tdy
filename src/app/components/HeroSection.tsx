@@ -91,11 +91,9 @@ export default function HeroSection() {
       <Container>
         <div className='relative pt-36 ml-auto'>
           <div className='lg:w-2/3 text-center mx-auto'>
-            <h1 className='text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl'>
-              TDYWAREHOUSING<sup className='text-sm'>®</sup>{' '}
-              <span className='text-primary dark:text-white'>
-                海外仓储解决方案
-              </span>
+            <h1 className='text-gray-900 dark:text-white font-bold text-4xl md:text-5xl xl:text-6xl'>
+              TDY<sup className='text-sm'>®</sup>{' '}
+              <span className='text-primary dark:text-white'>海外仓储方案</span>
             </h1>
             <p className='mt-8 text-gray-700 dark:text-gray-300'>
               在全球化贸易的浪潮中，TDY海外仓宛如一座坚实的桥梁，连接着世界的各个角落。作为跨境电商的得力伙伴，我们为您提供强大的国际市场拓展支持。
