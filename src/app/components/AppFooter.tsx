@@ -58,10 +58,10 @@ export default function AppFooter() {
             </h3>
             <div className='space-y-4 text-gray-600 dark:text-gray-300'>
               <p>
-                <strong>地址：</strong>浙江省义乌市柳青路
+                <strong>地址：</strong>18001 Cortney Ct, City of Industry, CA
               </p>
               <p>
-                <strong>电话：</strong>何先生 15726852525
+                <strong>邮箱：</strong>tdywarehousingca@gmail.com
               </p>
             </div>
           </div>

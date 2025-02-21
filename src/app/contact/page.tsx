@@ -5,17 +5,17 @@ import Image from 'next/image';
 export default function Contact() {
   const locations = [
     {
+      title: '美国仓储中心',
+      address: '18001 Cortney Ct, City of Industry, CA',
+      phone: '15726852525',
+      email: 'tdywarehousingca@gmail.com',
+      image: '/images/warehouse-3.webp',
+    },
+    {
       title: '义乌总部',
       address: '浙江省义乌市柳青路',
       phone: '15726852525',
       email: 'contact@tdywarehousing.com',
-      image: '/images/warehouse-3.webp',
-    },
-    {
-      title: '美国仓储中心',
-      address: '123 Logistics Way, Los Angeles, CA 90012',
-      phone: '+1 (555) 123-4567',
-      email: 'us@tdywarehousing.com',
       image: '/images/warehouse-4.jpg',
     },
   ];
