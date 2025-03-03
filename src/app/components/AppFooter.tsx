@@ -13,9 +13,6 @@ export default function AppFooter() {
                 TDYWAREHOUSING<sup className='text-sm'>®</sup>
               </span>
             </Link>
-            <p className='mt-4 text-gray-600 dark:text-gray-300'>
-              义乌市联盾货运代理有限公司
-            </p>
           </div>
 
           {/* Quick Links */}
@@ -70,8 +67,7 @@ export default function AppFooter() {
         {/* Bottom Bar */}
         <div className='mt-10 pt-10 border-t border-gray-100 dark:border-gray-800'>
           <div className='text-center text-gray-600 dark:text-gray-300'>
-            © {new Date().getFullYear()} TDYWAREHOUSING All Rights by
-            义乌市联盾货运代理有限公司.
+            © {new Date().getFullYear()} TDYWAREHOUSING All Rights Reserved{' '}
           </div>
         </div>
       </Container>

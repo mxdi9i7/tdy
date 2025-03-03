@@ -11,13 +11,6 @@ export default function Contact() {
       email: 'tdywarehousingca@gmail.com',
       image: '/images/warehouse-3.webp',
     },
-    {
-      title: '义乌总部',
-      address: '浙江省义乌市柳青路',
-      phone: '15726852525',
-      email: 'contact@tdywarehousing.com',
-      image: '/images/warehouse-4.jpg',
-    },
   ];
 
   return (

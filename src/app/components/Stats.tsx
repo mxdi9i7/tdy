@@ -67,9 +67,9 @@ export default function Stats() {
                     联系方式
                   </h3>
                   <p className='text-gray-500 dark:text-gray-400'>
-                    地址：浙江省义乌市柳青路
+                    地址：18001 Cortney Ct, City of Industry, CA
                     <br />
-                    电话：何先生 15726852525
+                    邮箱：tdywarehousingca@gmail.com
                   </p>
                 </div>
               </div>
